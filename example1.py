@@ -22,7 +22,11 @@ def thing():
 
 turtle.hideturtle()
 turtle.speed()
-thing()
+for i in range(15):
+    thing()
+    turtle.right(10)
+    turtle.forward(50)
+
 ts = turtle.getscreen()
 canvas = ts.getcanvas()
 canvasvg.saveall("example1.svg", canvas)
