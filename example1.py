@@ -20,6 +20,7 @@ def thing():
     turtle.right(90)
     turtle.forward(50)
 
+turtle.hideturtle()
 turtle.speed()
 thing()
 ts = turtle.getscreen()
