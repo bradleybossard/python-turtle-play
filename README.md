@@ -2,6 +2,7 @@ python-turtle
 =========
 
 ![](https://rawgit.com/bradleybossard/python-turtle-play/master/output/example1-thumb.svg)
+![](https://rawgit.com/bradleybossard/python-turtle-play/master/output/example2-thumb.svg)
 
 
 Install and Run
